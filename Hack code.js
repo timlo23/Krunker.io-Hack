@@ -4,8 +4,8 @@
 // @description  Delaspain NEW hack Aimbot, Unlimited Ammo, Auto Heal, ESP, Wall Hack, Unlimited Ammo... -2020 krunkerio hack- ADBLOCK
 // @author       Delaspain
 // @namespace    Delaspaingg
-// @updateURL    https://raw.githubusercontent.com/Delaspaingg/KRUNKER.IO-Hacks/master/Hack%20code.js
-// @downloadURL  https://raw.githubusercontent.com/Delaspaingg/KRUNKER.IO-Hacks/master/Hack%20code.js
+// @updateURL    https://raw.githubusercontent.com/Delaspaingg/Krunker.io-Hack/master/Hack%20code.js
+// @downloadURL  https://raw.githubusercontent.com/Delaspaingg/Krunker.io-Hack/master/Hack%20code.js
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
 // @match        *://krunker.io/*
 // @grant        GM_xmlhttpRequest
